@@ -1,32 +1,45 @@
 # 💻 Skills
 
 ## General Tech Stacks
-- Architecture Design
-- Desktop App Development
-- Web Development (Frontend & Backend)
+- Web Application Development (Frontend & Backend)
 
 ## Programming languages
-- C# .NET
+- JavaScript
+- TypeScript
+- Solidity
 - Python
-- JavaScript/TypeScript
-  - React.js
-- T-SQL
-- Go
+- SQL
 - C++
-- Java
-- VB.NET/VBA
+
+## FrameWorks
+- Next Js
+- React Js
+- Express Js
+- Nest JS
+
+## Run Time Enviornments
+- Node js
+
+## Libraries
+- Redux
+- Redux ToolKit
+- React Queries
+- Framer Motion
+
+## Testing Libraries
+- Jest
 
 ## Databases
-- MSSQL
+- Mongo db
 - PostgreSQL
 - MySQL
-- SQLite
 
 ## Cloud
-- Azure
-- GCP
-- Heroku
-- Render
+- AWS
+
+## Operating Systems
+- Windows
+- Linux (Ubuntu)
 
 ## Vcs
 - Git
