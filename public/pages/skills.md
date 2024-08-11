@@ -1,13 +1,14 @@
 # 💻 Skills
 
 ## General Tech Stacks
+- MERN Stack
 - Web Application Development (Frontend & Backend)
 
 ## Programming languages
 - JavaScript
 - TypeScript
-- Solidity
 - Python
+- Solidity
 - SQL
 - C++
 
@@ -20,11 +21,24 @@
 ## Run Time Enviornments
 - Node js
 
-## Libraries
+## Node Js Libraries
+- JOI Validation
+- Multer
+- Mongoose
+- Socket.io
+- CORS
+- Nodemailer
+- Moment.js
+- axios
+
+## State Management Libraries
 - Redux
 - Redux ToolKit
 - React Queries
+
+## Animation Libraries
 - Framer Motion
+- React Spring
 
 ## Testing Libraries
 - Jest
