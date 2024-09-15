@@ -5,6 +5,7 @@
 Skilled MERN stack developer with extensive hands-on experience in engineering software solutions. Proficient in a wide range of technologies, I specialize in building dynamic and scalable web applications, leveraging a diverse set of technologies to ensure top-notch performance and user satisfaction.
 
 
+
 ## Experience
 
 **Software Engineer** @ [Blockrithms](https://www.blockrithms.com/) _(May 2024 - Present)_
