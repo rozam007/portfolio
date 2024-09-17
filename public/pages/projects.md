@@ -4,7 +4,14 @@
 ### Overview
 - Created a sleek and fully responsive portfolio website showcasing expertise in modern web development techniques. Utilized Next.js and React.js for robust frontend functionality and seamless user experience across all devices.
 ### Key Features
-- This was my first Visual Basic program. Before I wrote this Visual Basic based add-in, I only had some basic knowledge of VBA. I spent the whole March building this add-in and self-learning Visual Basic simultaneously.
+- Hero Section: Captivates visitors with a compelling introduction and engaging visuals.
+- About Section: Provides a brief overview of expertise, experience, and background.
+- Services: Details the range of services offered, highlighting key areas of expertise.
+- Happy Clients: Showcases testimonials and feedback from satisfied clients.
+- Projects: Displays a portfolio of completed projects with descriptions and visuals.
+- Contact Us: Facilitates communication through a contact form and additional contact information.
+- Footer: Includes essential links, social media icons, and copyright information, providing a comprehensive and navigable end to the webpage.
+
 ### Technologies Used
 - Next js, TypeScript, JavaScript, HTML, and Tailwind CSS, for robust frontend development. Leveraged libraries including Swiper, React-Toastify, React-Icons, EmailJS/Browser, AOS, and Hamburg-React for enhanced functionality and user interaction.
 
