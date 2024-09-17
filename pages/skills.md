@@ -1,32 +1,58 @@
 # 💻 Skills
 
 ## General Tech Stacks
-- Architecture Design
-- Desktop App Development
-- Web Development (Frontend & Backend)
+- MERN Stack
 
 ## Programming languages
-- C# .NET
+- JavaScript
+- TypeScript
 - Python
-- JavaScript/TypeScript
-  - React.js
-- T-SQL
-- Go
+- Solidity
+- SQL
 - C++
-- Java
-- VB.NET/VBA
+
+## FrameWorks
+- Next Js
+- React Js
+- Express Js
+- Nest JS
+
+## Run Time Enviornments
+- Node js
+
+## Node Js Libraries
+- JOI Validation
+- Multer
+- Mongoose
+- Socket.io
+- CORS
+- Nodemailer
+- Moment.js
+- Axios
+
+## State Management Libraries
+- Redux
+- Redux ToolKit
+- React Queries
+
+## Animation Libraries
+- Framer Motion
+- React Spring
+
+## Testing Libraries
+- Jest
 
 ## Databases
-- MSSQL
+- Mongo db
 - PostgreSQL
 - MySQL
-- SQLite
 
 ## Cloud
-- Azure
-- GCP
-- Heroku
-- Render
+- AWS
+
+## Operating Systems
+- Windows
+- Linux (Ubuntu)
 
 ## Vcs
 - Git

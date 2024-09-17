@@ -2,38 +2,49 @@
 
 ## Summary
 
-Senior Software Developer specializing in web application development. Experienced with all stages of the development cycle for dynamic web projects. Well-versed in numerous programming languages including C# .NET, Python and JavaScript/TypeScript. Strong background in both accounting/auditing and software development. Mitigated the gap between end users and developers, co-designed and built scalable solutions.
+Skilled MERN stack developer with extensive hands-on experience in engineering software solutions. Proficient in a wide range of technologies, I specialize in building dynamic and scalable web applications, leveraging a diverse set of technologies to ensure top-notch performance and user satisfaction.
+
 
 
 ## Experience
 
-**Software Developer** @ [Ernst & Young](https://www.ey.com/) _(Nov 2018 - Nov 2021)_
+**Software Engineer** @ [Blockrithms](https://www.blockrithms.com/) _(May 2024 - Present)_
 
-Completed full lifecycle application development to enterprise business applications including requirement analysis, system design, development, unit testing, implementation, testing support, performance tuning, maintenance, and post-production support.
-- Detailed achievements:
-  - Collaborated with colleagues from worldwide to implement the Disaster Recovery Project. Completed ahead of the original schedule and saved budget up to 30%.
-  - Optimized deployment process and reduced manual work to accelerate product deployment by over 70%.
-  - Delivered virtual and live classroom training for employees(the cumulative number of trainees exceeded 500).
-- _**Technologies used:**_ C#, MSSQL, Python, React.js
+In this Full Stack Software Engineer role, I mainly worked with MERN, Next.js, Nest.js and PostgreSql.
 
-&nbsp;
+Portfolio Website Development - Blockrithms.com
+• Created a fully responsive portfolio website with modern design and dynamic animations using Next.js, TypeScript, Tailwind CSS, and Swiper.js.
 
-**Staff Auditor** @ [Deloitte & Touche](https://www2.deloitte.com/global/en.html) _(July 2017 - Nov 2018)_
+GraphQL with Apollo Client
+• Implemented Apollo Client on an Express proxy server for precise data retrieval and efficient caching, 
+enhancing backend performance and reliability.
 
-Planned and conducted operational and ﬁnancial audits to conﬁrm ﬁnancial statements are fairly presented in alignment with IFRS.
-- Detailed achievements:
-  - Delivered internal audit projects for major clients in the manufacturing industry with a focus on gap assessments/reviews of business processes and internal control.
-  - Supervised assigned auditing staffs to evaluate performance and maintain standards.
+Referral System Development
+• Referral Code & URL Generation: Admins create referral codes and URLs for registered users.
+• Referral Tracking: Tracks and retrieves referral counts for admin users.
 
 &nbsp;
 
-**Audit Intern** @ [KPMG](https://home.kpmg/) _(July 2015 - July 2015)_
+**Associate Software Engineer** @ [Brackets Private Limited](https://www.bracketsltd.com/) _(Nov 2022 - May 2024)_
 
-Performed analytical procedures and analyses to detect unusual ﬁnancial relationships.
+Human Resource Management System (HRMS) - tms.bracketsltd.com
+• Spearheaded the automation of comprehensive employee profiles, encompassing basic information, contractual details, educational background, and asset allocation, streamlining HR operations.
+• Orchestrated the development of an Attendance Management System and Payroll Management System, optimizing workforce management and ensuring timely salary disbursements.
+• Designed and implemented a suite of request forms, including Leaves, Reimbursements, Loan, Advance Salaries, and Overtime, enhancing employee engagement and administrative efficiency.
+• Automated accounts and expenses tracking, meticulously managing financial transactions and generating insightful reports for strategic financial analysis.
+• Established a robust client and vendor management system, enabling seamless invoicing and fostering stronger business relationships.
+• Engineered an end-to-end recruitment process automation solution, integrating initial screening, technical interviews, and final assessments, which seamlessly synced with the public website for streamlined candidate applications.
+• Architected an employee assessment platform, empowering team leads and project managers to evaluate team members' performance comprehensively, driving informed decisions on salary increments and career growth opportunities.
+
+&nbsp;
+
+**Lab Instructor** @ [University Of Central Punjab, Lahore](https://www.ucp.edu.pk/) _(Oct 2021 - Aug 2022)_
+
+I taught Programming Fundamentals, Data Structures, Artificial Intelligence and Digital Logic Design.
 
 ## Education
 
-`2016-2020` [University Of Central Punjab, Lahore](https://www-en.ntut.edu.tw/)
+`2016-2020` [University Of Central Punjab, Lahore](https://www.ucp.edu.pk/)
 - **Extension program** in Computer Science
 - Courses: Programming Fundamentals, Object-Oriented Programming, Data Structures, Computer Organization, Discrete Mathematics, Database Mangemenet System (DBMS), Web Application Development, Mobile Application Development, Artifical Intelligence, Compiler Construction, Theory Of Automata, Probability and Digital Logic Design.
 - GPA: 3.15/4.0
@@ -42,7 +53,7 @@ Performed analytical procedures and analyses to detect unusual ﬁnancial relati
 
 ### General Tech Stacks
 - MERN Stack
-- Web App Development (Frontend & Backend)
+- Web Application Development (Frontend & Backend)
 
 ### Programming languages
 - JavaScript
