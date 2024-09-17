@@ -1,6 +1,6 @@
 import {
-  FaMedium,
-  FaBlog,
+  // FaMedium,
+  // FaBlog,
   FaGithub,
   FaLinkedin,
   FaEnvelope,
