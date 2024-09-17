@@ -2,7 +2,6 @@
 
 ## General Tech Stacks
 - MERN Stack
-- Web Application Development (Frontend & Backend)
 
 ## Programming languages
 - JavaScript
@@ -29,7 +28,7 @@
 - CORS
 - Nodemailer
 - Moment.js
-- axios
+- Axios
 
 ## State Management Libraries
 - Redux
