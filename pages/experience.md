@@ -23,7 +23,7 @@ In this Associate Software Engineer Role, I mainly worked with FrontEnd Technolo
   - Established a robust client and vendor management system, enabling seamless invoicing and fostering stronger business relationships.
   - Engineered an end-to-end recruitment process automation solution, integrating initial screening, technical interviews, and final assessments, which seamlessly synced with the public website for streamlined candidate applications.
   - Architected an employee assessment platform, empowering team leads and project managers to evaluate team members' performance comprehensively, driving informed decisions on salary increments and career growth opportunities.
-- _**Technologies used:**_ React Js, Typescript, Javascript, Restful APIs, React Queries, Redux Toolkit, React Graphs, HTML, CSS, MUI, Tailwind css.
+- _**Technologies used:**_ React Js, Javascript, Restful APIs, React Queries, Axios, Redux Toolkit, React Charts, HTML, CSS, Material UI, Tailwind css, HTML Canvas, React-Icons and React Responsive Carousel.
 ##
 &nbsp;
 
